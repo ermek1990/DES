@@ -60,6 +60,8 @@
 
   In the make file, I used /usr/usc/bin/g++ instead of g++. This was because
   there probably some issue with the path variable. I don't know how to fix them.
+  
+  The code runs relatively slowly (very slow) because of some implementation specifics. If I have time, I will optimize the code.
 
   CONTACTS
   --------
